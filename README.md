@@ -1,1 +1,1 @@
-Testing repo after locally renaming folder on my laptop.
+Re-Testing repo after locally renaming folder on my laptop.
