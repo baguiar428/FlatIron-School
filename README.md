@@ -1,1 +1,1 @@
-Adding content as proof of concept of re-adding/committing an updated file.
+Testing repo after locally renaming folder on my laptop.
